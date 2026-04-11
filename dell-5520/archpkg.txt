@@ -11,16 +11,16 @@ wget
 zsh
 
 # more command line tools
-7zip
+# 7zip
 bat
 btop
 difftastic
-docx2txt
+# docx2txt
 ethtool
 exfat-utils
 eza
 fd
-ffmpeg
+# ffmpeg
 fzf
 gdu
 hexedit
@@ -32,7 +32,7 @@ jwt-cli
 less
 lsof
 mediainfo
-ncdu
+# ncdu
 openbsd-netcat
 powertop
 rclone
@@ -41,16 +41,16 @@ ripgrep
 rsync
 sshfs
 starship
-syncthing
+# syncthing
 testdisk
-tlp
-tlp-rdw
+# tlp
+# tlp-rdw
 unzip
 vbindiff
 vim
 wget
-yazi
-zellij
+# yazi
+# zellij
 zoxide
 
 
